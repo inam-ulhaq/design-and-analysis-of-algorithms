@@ -21,9 +21,9 @@ In this repository, you will find:
 ## Topics Covered
 
 ### 1. Introduction to Algorithms
-- What is an Algorithm
+- Introduction to Algorithm
 - Characteristics of an Algorithm
-- Types of Algorithms
+- 
 
 ### 2. Asymptotic Analysis
 - Big O Notation
